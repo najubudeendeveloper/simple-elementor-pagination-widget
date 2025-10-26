@@ -1,7 +1,5 @@
 # How to Test My Widget 🚀
 
-A lightweight WordPress plugin to supercharge your site's SEO with clean meta tags, Open Graph support, and performance-friendly schema markup. Built for developers, bloggers, and small businesses who want results without the bloat.
-
 ## Steps
 
 ## 📦 Installation
